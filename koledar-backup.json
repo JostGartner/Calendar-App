@@ -1,0 +1,46 @@
+{
+  "app": "datebook",
+  "version": 1,
+  "savedAt": "2026-09-24T14:12:26.333Z",
+  "theme": "dark",
+  "accent": "violet",
+  "todo": "To buy:\n- Creatine",
+  "events": [
+    {
+      "id": "mu9jtuhe22hax",
+      "year": 2026,
+      "month": 4,
+      "day": 22,
+      "title": "Moj rojstni dan!",
+      "time": "Vse najboljše :)",
+      "repeat": true
+    },
+    {
+      "id": "mu9kc9uxbmmax",
+      "year": 2026,
+      "month": 4,
+      "day": 24,
+      "title": "Rojstni dan: Mami",
+      "time": "Kupi darilo!",
+      "repeat": true
+    },
+    {
+      "id": "mubbaz4d4uk9g",
+      "year": 2026,
+      "month": 8,
+      "day": 23,
+      "title": "Striženje",
+      "time": "18:30",
+      "repeat": false
+    },
+    {
+      "id": "mue9pfeedyn1o",
+      "year": 2026,
+      "month": 8,
+      "day": 29,
+      "title": "Rojstni dan: Ati",
+      "time": "Kupi darilo!",
+      "repeat": true
+    }
+  ]
+}
